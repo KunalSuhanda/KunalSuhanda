@@ -8,11 +8,10 @@
 
 📊 Enhancing my skills in Power BI, Tableau, SQL, and Python to craft meaningful visualizations and analyses.
 
-🕹️ Competing as part of Pace Esports' Varsity Gold Team in Fortnite.
 
 🛠️ Tech Stack & Tools:
 
-Programming: Python, Java (Beginner)
+Programming: Python, Java 
 
 Data Visualization: Power BI, Tableau, MS Excel, MATLAB
 
